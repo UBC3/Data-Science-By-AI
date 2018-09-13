@@ -4,7 +4,7 @@ bio:                'This is a blog about Data Science'
 description:        "Data Science is an evolving feel."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://avatars0.githubusercontent.com/u/25903622?s=400&u=9ae410c69cc95c473cdede5c9ae04f0182aafc31&v=4'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
